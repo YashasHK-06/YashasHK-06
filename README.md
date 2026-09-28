@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Yashas 👋
 
-<!--
-**YashasHK-06/YashasHK-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student and aspiring Software Engineer who enjoys building meaningful things with code and learning new technologies along the way.
 
-Here are some ideas to get you started:
+### 🚀 What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building full-stack and AI-powered applications while improving my problem-solving and software development skills.
+
+### 🛠️ Tools & Technologies
+
+Java • Python • C • C# • JavaScript • TypeScript  
+React • Vite • Node.js • Express.js  
+MongoDB • Supabase • MySQL  
+Git • Vercel • Figma
+
+### 📫 Reach me
+
+📧 yashas.hk06@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/yashas-hk-8744462b5/)
+
+---
+
+> Building, learning, and improving — one line of code at a time.
