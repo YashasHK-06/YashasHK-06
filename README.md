@@ -9,18 +9,18 @@ Currently building full-stack and AI-powered applications while improving my pro
 ### 💼 About me
 
 - Building responsive, full-stack web applications
-- Understanding requirements first, then designing reusable user interfaces
+- Designing reusable user interfaces based on requirements
 - Working with REST APIs and databases, and deploying on Vercel
-- Adding AI features to apps with Gemini AI
-- Writing clean, maintainable code and always looking to improve
+- Integrating AI features with Gemini AI
+- Writing clean, maintainable code and continuously improving
 
 ### 🎯 What I do
 
-- **Frontend:** responsive UIs with React, reusable components, and smooth user experiences
-- **Backend & APIs:** building and integrating REST APIs with Node.js and Express
-- **Databases:** working with MongoDB, MySQL, and Supabase
-- **AI integration:** using Gemini AI for smart, personalized features
-- **Deployment:** taking apps from local development to live on Vercel
+- **Frontend:** React, reusable components, and responsive user experiences
+- **Backend & APIs:** Node.js, Express, and REST APIs
+- **Databases:** MongoDB, MySQL, and Supabase
+- **AI integration:** Gemini AI for smart and personalized features
+- **Deployment:** Deploying applications on Vercel
 
 ### 🛠️ Tools & Technologies
 
@@ -36,7 +36,7 @@ Gaming, hitting the gym, and enjoying good music.
 
 ### 📫 Reach me
 
-📧 [Mail](mailto:yashas.hk06@gmail.com)
+📧 [Mail](mailto:yashas.hk06@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/yashas-hk-8744462b5/)
 
 ---
