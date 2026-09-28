@@ -15,7 +15,7 @@ Git • Vercel • Figma
 
 ### 📫 Reach me
 
-📧 yashas.hk06@gmail.com  
+📧 [Mail](yashas.hk06@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/yashas-hk-8744462b5/)
 
 ---
