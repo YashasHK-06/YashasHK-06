@@ -6,16 +6,37 @@ I'm a Computer Science student and aspiring Software Engineer who enjoys buildin
 
 Currently building full-stack and AI-powered applications while improving my problem-solving and software development skills.
 
+### 💼 About me
+
+- Building responsive, full-stack web applications
+- Understanding requirements first, then designing reusable user interfaces
+- Working with REST APIs and databases, and deploying on Vercel
+- Adding AI features to apps with Gemini AI
+- Writing clean, maintainable code and always looking to improve
+
+### 🎯 What I do
+
+- **Frontend:** responsive UIs with React, reusable components, and smooth user experiences
+- **Backend & APIs:** building and integrating REST APIs with Node.js and Express
+- **Databases:** working with MongoDB, MySQL, and Supabase
+- **AI integration:** using Gemini AI for smart, personalized features
+- **Deployment:** taking apps from local development to live on Vercel
+
 ### 🛠️ Tools & Technologies
 
-Java • Python • C • C# • JavaScript • TypeScript  
-React • Vite • Node.js • Express.js  
-MongoDB • Supabase • MySQL  
-Git • Vercel • Figma
+**Languages:** Java • Python • C • C# • JavaScript • TypeScript  
+**Frontend:** React • Vite • HTML5 • CSS3  
+**Backend:** Node.js • Express.js • REST APIs  
+**Databases:** MongoDB • Supabase • MySQL  
+**Tools:** Git • GitHub • VS Code • Vercel • Figma
+
+### 🎮 Beyond the code
+
+Gaming, hitting the gym, and enjoying good music.
 
 ### 📫 Reach me
 
-📧 [Mail](yashas.hk06@gmail.com)
+📧 [Mail](mailto:yashas.hk06@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/yashas-hk-8744462b5/)
 
 ---
